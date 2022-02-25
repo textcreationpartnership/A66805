@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Holland touching liberty of conscience</title>
+            <author>Witt, Cornelis de, 1623-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66805</idno>
+            <idno type="STC">Wing W3223</idno>
+            <idno type="STC">ESTC R34096</idno>
+            <idno type="EEBO-CITATION">13764282</idno>
+            <idno type="OCLC">ocm 13764282</idno>
+            <idno type="VID">101708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101708)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1055:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Holland touching liberty of conscience</title>
+                  <author>Witt, Cornelis de, 1623-1672.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed ... for E.R.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end C.D.W.</note>
+                  <note>Attributed by Wing to de Witt.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Date of publication from colophon.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  England --  17th century.</term>
+               <term>Liberty of conscience.</term>
+               <term>Freedom of religion --  Netherlands --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:101708:1" rendition="simple:additions"/>
+            <head>A LETTER from <hi>HOLLAND,</hi> TOUCHING <hi>Liberty of Conſcience,</hi>
+            </head>
+            <opener>
+               <salute>Dear SIR,</salute>
+            </opener>
+            <p>I Received yours of the 10th <hi>Current (Stilo veteri)</hi> and canot but <hi>ſmile</hi> to ſee you ſeem ſo much concern'd at the <hi>Papers,</hi> you ſay, are frequently tranſmitted from hence; for I aſſure my ſelf, you know the World better than to be really ſtartled at ſuch <hi>petit efforts:</hi> However, ſince you are pleaſed to <hi>Command</hi> (for under that Character I muſt ever receive the leaſt Intimation of your deſires) my mean Sentiments on that Subject, I ſhall deliver my Thoughts with all the <hi>freedom</hi> due to our <hi>old Friendſhip,</hi> and the Secrecy of a <hi>Private Letter,</hi> for <hi>ſuch</hi> I hope your <hi>Prudence</hi> will make it, as fore-ſeeing how much it may otherwiſe redound to <hi>my Prejudice</hi> from ſome, that will neither <hi>ſpeak Truth</hi> themſelves, nor endure to <hi>hear</hi> it from others.</p>
+            <p>You are not ignorant that the <hi>beſt Princes,</hi> and even for their <hi>beſt Actions,</hi> have been traduc'd and ſcandaliz'd by <hi>laviſh Tongues,</hi> the petulancy of miſ<g ref="char:EOLhyphen"/>imploy'd <hi>Wit,</hi> and mercenary <hi>malitious Pens.</hi> There<g ref="char:EOLhyphen"/>fore the beſt advis'd <hi>Stateſmen,</hi> have always thought ſuch <hi>Invectives</hi> worthy none of their <hi>paſſions,</hi> but <hi>ſcorn</hi> and <hi>neglect; Auguſtus</hi> never ſpoke more like himſelf, than in that Expreſſion to <hi>Tiberius—Noli hâc in r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> indagare, &amp; nimium Indignari Quempiam eſſe qui de me loquatur Malé, ſatis eſt enim ſi hoc habe<g ref="char:EOLhyphen"/>mus, ne quis malé facere poſſit.</hi>
+            </p>
+            <p>I need not give you the Character of the <hi>Instru<g ref="char:EOLhyphen"/>ments</hi> that chiefly contrive and promote the Libels you complain of; What may not be expected from Perſons <hi>defeated</hi> in their Nefarious Attempts? Fru<g ref="char:EOLhyphen"/>ſtrated of their Ambitious <hi>hopes?</hi> Acted by Malice, Envy, Want and <hi>Deſpair?</hi> I believe you never knew many of them much Celebrated at home for any extraordinary <hi>ſtrict Piety</hi> or <hi>Moral Vertue;</hi> and I can aſſure you, we do not find by their general Con<g ref="char:EOLhyphen"/>verſation here, any great Inclinations they have to live <hi>Saints,</hi> or die <hi>Martyrs.</hi> What Notorious falſe Stories? What groſs Forgeries (under the Notion of <hi>Intercepted Letters,</hi> &amp;c.) have they not Induſtriouſly advanc'd and ſpread abroad? Nay, ſome of them have attempted to abuſe Heaven it ſelf, and ſuborn the <hi>Stars</hi> to Countenance their Impoſtures, whilſt they divert themſelves over a <hi>full-crown'd Rummer,</hi> in boaſting how many ſilly Souls in <hi>England</hi> they have bubled with theſe fulſome Shams—Yet <hi>theſe</hi> are the men that are ſo wonderouſly tranſported with Zeal, for the Preſervation of a <hi>Religion,</hi> which they al<g ref="char:EOLhyphen"/>ways were, and continue to be a <hi>ſcandal</hi> to.</p>
+            <p>But if (over-looking their immodeſt Reflecti<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi>) you conſider the main ſcope and deſign of theſe Papers, is it not altogether to ſupport the <hi>Penal</hi> and <hi>Teſt-Laws,</hi> and to prevent the free Exerciſe of <hi>Religion</hi> being <hi>ſetled</hi> among you? And on what <hi>To<g ref="char:EOLhyphen"/>picks</hi> do they proceed, but little <hi>Sophiſms,</hi> adapted on<g ref="char:EOLhyphen"/>ly to Amuſe and Inflame the Vulgar? And begging the main Queſtion, [<hi>viz.</hi> Taking it for granted, that if thoſe Laws be removed, there will not, or cannot be other ſufficient Security for the <hi>Proteſtant Religion</hi> eſtabliſhed in their ſtead] which as it is altogether a <hi>miſ-stating</hi> of the caſe; ſo it ſeems ſomewhat unac<g ref="char:EOLhyphen"/>countable, that the very ſame Perſons, who e'er while complain'd ſo much of <hi>Oppreſſion</hi> for matters of <hi>Reli<g ref="char:EOLhyphen"/>on,</hi> or at leaſt the fears on't, and were ſo fond of <hi>Liberty of Conſcience,</hi> that to obtain it, they broke through all the Bounds of <hi>Duty</hi> and <hi>Prudence,</hi> and ventur'd upon a deſperate <hi>Rebellion</hi> (apparently threat<g ref="char:EOLhyphen"/>ning the utter Ruine of their Native Country) ſhould now on a ſudden be ſo extreamly <hi>averſe thereunto,</hi> when 'tis freely <hi>offer'd</hi> to be ſetled by Law to all Poſte<g ref="char:EOLhyphen"/>rity, under as firm <hi>Security</hi> as the Wiſdom of a Nation can invent?</p>
+            <p>Therefore, thô I know Peoples <hi>Paſſions</hi> have a ſtrange Byaſs on their <hi>Judgments,</hi> yet a Wiſe Man may be tempted to ſuſpect ſomething <hi>more</hi> in this caſe, and that the Humour is fomented and encouraged by the ſecret Influences of ſome <hi>powerful Intereſt;</hi> for 'tis <hi>That</hi> commonly moves the Wheels, though <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> may be made the pretence: What's the reaſon ſo many cry'd out againſt <hi>Matchiavel?</hi> Not ſo much perhaps, for the badneſs of his <hi>Maxims</hi> (ſince they are every day practiſed by ſuch as declaim loudeſt a<g ref="char:EOLhyphen"/>gainſt 'em) but ill Politicians were angry that he ſhould divulge their <hi>Arcana,</hi> and make thoſe Myſteries <hi>com<g ref="char:EOLhyphen"/>mon,</hi> which they deſigned to engroſs to themſelves for the ſupport of their own Grandeur. I intend no more by the compariſon, than only to ſay, That it is no Miracle, if one that finds ſome <hi>Expedient</hi> very advantagious to himſelf, ſhall endeavour to divert o<g ref="char:EOLhyphen"/>thers from the uſe and benefit of it. Even the <hi>Philoſo<g ref="char:EOLhyphen"/>phick Adepti,</hi> thô they pretend to the moſt <hi>Flaming Charity,</hi> deliver their Precepts under ſuch <hi>perplexing Aenigma's,</hi> as if they deſigned to lead men into Error.
+<pb n="2" facs="tcp:101708:2"/>and the deſtruction of their Fortunes, rather than Il<g ref="char:EOLhyphen"/>luminate them to the Diſcovery of the boaſted <hi>Elixir. That Intereſt will not lye,</hi> is as certain as any Pro<g ref="char:EOLhyphen"/>blem in <hi>Euclide;</hi> Nor is the <hi>Jealouſie</hi> of <hi>State</hi> leſs violent than that of <hi>Love;</hi> none enduring a <hi>Rival</hi> to his Courtſhip, if he can prevent it.</p>
+            <p>Since therefore the bottom of your Enquiry ſeems to reach at thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, what advantages a ſecure <hi>Eſtabliſhment</hi> of Liberty for Tender Conſciences in <hi>England</hi> may be attended with, in reſpect of the <hi>Trade</hi> and <hi>Civil Happineſs</hi> of that Nation? And how far it may pro<g ref="char:EOLhyphen"/>bably on that account Affect ſome of its Neighbours? I ſhall apply my ſelf to give you the beſt ſatisfácti<g ref="char:EOLhyphen"/>on I can, wherein that I may not run into Notions meerly <hi>ſpeculative;</hi> I ſhall inſiſt on matter <hi>of Fact;</hi> for what effects it has produced, it may do again <hi>(caeteris paribus)</hi> and much greater, if accompanied with other more advantagious Circumſtances; Nor need I ſtep out of my <hi>preſent Lodging</hi> for an In<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>'Tis well known, that the <hi>free Exerciſe</hi> of Reli<g ref="char:EOLhyphen"/>gion was the beſt <hi>Swadling-Band</hi> of this <hi>Infant Com<g ref="char:EOLhyphen"/>mon-Wealth;</hi> for by their Original Conſtitution, the <hi>
+                  <g ref="char:V">Ʋ</g>nion of <g ref="char:V">Ʋ</g>trecht</hi> 1579, it was provided, <q>That every man ſhould remain free in his Religion, and none be examined or entrapped for that Cauſe.</q> And the ſteady adherence to that <hi>Maxim</hi> has mainly contributed to cheriſh and ſupport them under all difficulties ever ſince, ſo that 'tis one of the Funda<g ref="char:EOLhyphen"/>mental Principles of our Policy; the firmeſt <hi>Pile</hi> that bouys up our Magnificent <hi>Stadt-Houſe.</hi> 'Tis <hi>That</hi> to which we owe our <hi>Populouſneſs,</hi> and conſequently our Trade, Riches and Strength; the Engine where<g ref="char:EOLhyphen"/>by we have at once <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ained</hi> other Nations, and moun<g ref="char:EOLhyphen"/>ted our ſelves to ſuch an Aſcendent of Opulency and Power, as to vye with the moſt plentiful <hi>Kingdoms</hi> and talleſt <hi>Monarchs.</hi>
+            </p>
+            <p>And the Reaſons thereof are no leſs Evident than <hi>
+                  <g ref="char:V">Ʋ</g>niverſal:</hi> For,</p>
+            <p n="1">1. As Perſecution tends to <hi>depopulate;</hi> ſo <hi>Liberty of Conſcience</hi> naturally draws a vaſt Conflux of Peo<g ref="char:EOLhyphen"/>ple; for as nothing can be more grievous to Honeſt Men, than to be reſtrained in <hi>this World</hi> from what they believe conductive to their Eternal Happineſs in the <hi>next;</hi> ſo thô all have not the <hi>Fortitude</hi> actu<g ref="char:EOLhyphen"/>ally to ſuffer in ſuch caſes, yet few want the <hi>Prudence,</hi> if they have the <hi>opportunity,</hi> to remove to a place of ſhelter, where they may freely enjoy thoſe Priviledges which they are denyed at home; and for ſake thereof, prefer <hi>Wilderneſſes</hi> and <hi>Boggs,</hi> before the moſt <hi>fertile Soils,</hi> or <hi>pleaſanteſt Climates.</hi> Hence theſe <hi>Provinces</hi> (thô little befriended by Nature) are ſo full of People, that they are Calculated to have at leaſt ſix Souls for every <hi>Acre</hi> of Land.</p>
+            <p n="2">2. The People thus kept at home, or invited from abroad, by publick permiſſion of <hi>Liberty of Conſci<g ref="char:EOLhyphen"/>ence,</hi> are not idle <hi>Drones</hi> or <hi>Spend-Thrifts,</hi> but ge<g ref="char:EOLhyphen"/>nerally the moſt <hi>Sober</hi> and <hi>Induſtrious</hi> of any Coun<g ref="char:EOLhyphen"/>trey: None being more diligent in their Calling, or careful to husband their Time and Parts for publick Benefit and Improvement, than ſuch as make Con<g ref="char:EOLhyphen"/>ſcience of their Duty towards God; as knowing that Sloth, Gluttony, Drunkenneſs, Debauchery, Vain<g ref="char:EOLhyphen"/>paſtimes, or Trifling Divertiſements, are no leſs in<g ref="char:EOLhyphen"/>conſiſtent with their Profeſſion, than prejudicial to the Intereſt of any Nation.</p>
+            <p n="3">3. Hence 'tis obſerved, That the moſt part of thoſe <hi>Refugies</hi> conſiſt of Merchants, Artifficers, or Labori<g ref="char:EOLhyphen"/>ous Tradeſmen, that like <hi>Bees,</hi> wherever they come, bring in Honey to the <hi>common Hive,</hi> by Teaching <hi>New,</hi> or improving <hi>Old Manufactures</hi> amongſt thoſe where they reſide. How often has the grand ſtaple of <hi>Trade</hi> been Tranſplanted from one place to ano<g ref="char:EOLhyphen"/>ther meerly on this occaſion? The <hi>French</hi> and <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Perſecutions about 130 years ago, carried it to <hi>Antwerp;</hi> the Fury of the <hi>Duke of Alva</hi> forced it into theſe parts, whereby <hi>Amſterdam</hi> from a poor Fiſhing <hi>Dorp,</hi> is raiſed to one of the Richeſt Cities, in the Univerſe; the ſeverity of ſome of your <hi>Clergy,</hi> about half a Century paſt, adding not a lit<g ref="char:EOLhyphen"/>tle thereunto.</p>
+            <p>Nor want there Inſtances of a freſher Date; 'tis not above four of five years ſince ſeveral Families from the <hi>Weſt</hi> and other parts of <hi>England,</hi> harraſſed and wearied out with <hi>Excommunications</hi> and Forfei<g ref="char:EOLhyphen"/>tures of 20 <hi>
+                  <abbr>l.</abbr> per</hi> Month, for <hi>Nonconformity,</hi> &amp;c. came and planted themſelves amongſt us at <hi>Lewar<g ref="char:EOLhyphen"/>den</hi> in <hi>Friezland,</hi> and others went higher unto <hi>Lunen<g ref="char:EOLhyphen"/>burgh,</hi> offering to ſet up the <hi>Engliſh</hi> Manufactory for <hi>Cloth, Stuffs, Sarges,</hi> &amp;c. At both places they were entertained with all the Kindneſs imaginable; having <hi>Houſes</hi> allotted them <hi>Gratis,</hi> and great <hi>Privi<g ref="char:EOLhyphen"/>ledges</hi> granted for their Encouragement. And more of their Countrymen after <hi>Monmouths</hi> Rebellion (a main ground of which, as we heard here, was pre<g ref="char:EOLhyphen"/>tended to be for <hi>Liberty of Conſcience)</hi> flying over, and joyning with them, they became conſiderable; <hi>forty Looms</hi> at leaſt, being daily kept going at <hi>Lew<g ref="char:EOLhyphen"/>arden,</hi> and a Fund of 20 or 30 <hi>thouſand Pounds</hi> pro<g ref="char:EOLhyphen"/>poſed to be advanc'd for carrying on the work: where<g ref="char:EOLhyphen"/>by we promiſed our ſelves no ſmall advantages; for what with Wool privately <hi>Stoln</hi> from <hi>England,</hi> and what with <hi>another ſort</hi> of ſome of our Upland Neigh<g ref="char:EOLhyphen"/>bours, and the plenty of <hi>Spaniſh Wool</hi> which we have here. They had got a knack of <hi>mixing</hi> it to as great advantage as yours; which skill our People would ſoon have been Maſters of; and <hi>that</hi> could not fail of giving a fatal Blow to your Clothing Trade; and your <hi>Hamburgh Company</hi> began to <hi>ſear,</hi> if not to <hi>feel</hi> the Conſequences, eſpecially from <hi>Lunenburgh,</hi> by reaſon of its Commodious Scituation to Intercept their Markets.</p>
+            <pb n="3" facs="tcp:101708:2"/>
+            <p>But the Truth is, the King of <hi>Great Brittain</hi> was no ſooner advertiſed hereof, but he diſpatch'd neceſ<g ref="char:EOLhyphen"/>ſary Orders to his <hi>Ambaſſadour,</hi> then at the <hi>Hague;</hi> by whoſe Directions, one <hi>Everart</hi> (or ſome ſuch Name) was imployed, to Treat with the <hi>Principal <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>takers,</hi> and by aſſuring them, of an intire <hi>Liberty of Conſcience</hi> at home, and <hi>Free Pardon</hi> to ſuch as wanted it, prevailed with them to withdraw their <hi>Stocks:</hi> And ſo the Deſign <hi>at both Places</hi> fell to the ground; which though we may <hi>in Intereſt</hi> reſent, yet none can but <hi>in-Juſtice,</hi> applaude His Majeſty's Conduct therein, as a Teſtimony of his Prudent Watchful Care, for the Welfare of his Kingdoms and Peo<g ref="char:EOLhyphen"/>ple; who otherwiſe might have felt, the Ruina<g ref="char:EOLhyphen"/>ting Effects of this Accident, to after Generations.</p>
+            <p>On the other ſide, whereas till of late, we bought vaſt Quantities of <hi>Druggets, Gawzes,</hi> and other leſ<g ref="char:EOLhyphen"/>ſer <hi>Manufactures</hi> and <hi>Knick-knacks</hi> from <hi>France;</hi> ſince ſuch Numbers of Proteſtants have been <hi>forced</hi> into theſe Provinces, from thence: We have made them here ſo plentifully, as to furniſh the Markets, where there is Occaſion: Nor is it probable, that <hi>France</hi> will ever recover that Trade again, where<g ref="char:EOLhyphen"/>by it got, perhaps more than <hi>a Million per An<g ref="char:EOLhyphen"/>num.</hi>
+            </p>
+            <p n="4">4. A Fourth Advantage of this Religious Liberty, is, That it incourages the Inhabitants of any Coun<g ref="char:EOLhyphen"/>trey, to be more <hi>Induſtrious,</hi> and more freely to venture their Stocks in Trade, being freed from Vexatious Proſecutions, Impriſonments, <hi>&amp;c.</hi> And as (I have heard that) moſt of your Corporations in <hi>England,</hi> did not a little decline from their flou<g ref="char:EOLhyphen"/>riſhing Condition ſome years ſince, when many of the ſobreſt, and moſt, Publick-ſpirited Inhabitants, were by the Impoſition of <hi>Oaths</hi> and <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts,</hi> debar<g ref="char:EOLhyphen"/>red from all ſhare in the Government; and by ſe<g ref="char:EOLhyphen"/>vere Proſecutions, forced to give over Trading: So the Influence thereof, we Apprehended, would have quickly affected the <hi>whole Nation,</hi> had not His Ma<g ref="char:EOLhyphen"/>jeſty's Wiſdom interpoſed his late Declaration for Liberty; of which, (whatever Sentiments <hi>our Mi<g ref="char:EOLhyphen"/>niſters of State</hi> may have of it) I doubt not, but you do already feel the <hi>Happy Effects,</hi> and would to a far greater Degree, if the ſame were once Eſta<g ref="char:EOLhyphen"/>bliſh'd <hi>by Law;</hi> and the Fears, Jealouſies, and Di<g ref="char:EOLhyphen"/>ſtractions of Peoples Minds, fully Cured: For which, <hi>That</hi> ſeems to be the Soveraign Remedy, and only means, to make your King the <hi>Great Arbitrer of Europe.</hi> For,</p>
+            <p n="5">5. Granting <hi>Liberty of Conſcience</hi> ſecures the Go<g ref="char:EOLhyphen"/>vernment, and renders it eaſy; takes away all Co<g ref="char:EOLhyphen"/>lour for Faction or Rebellion: Nothing binds more firmly than Intereſt, and no Intereſt is more ſtrongly obliging, or more beloved than this Freedom; and therefore ties all the Inhabitants where they have it, into a ſtrict Fidelity to that Power which grants it, and brings every part to an intire Dependance there<g ref="char:EOLhyphen"/>on; whereas, when only <hi>One</hi> Perſwaſion is Careſſed, and others (altogether as good and uſeful Subjects) Expoſed to Loſſes and Puniſhments, for their Reli<g ref="char:EOLhyphen"/>gion; ſuch a Government is ſeldom <hi>Quiet,</hi> and ne<g ref="char:EOLhyphen"/>ver <hi>Safe:</hi> Nor does it leſs appeaſe Feuds and Ani<g ref="char:EOLhyphen"/>moſities, between the different <hi>Sects,</hi> amongſt themſelves; no man having Cauſe to be offended, at another Man's Liberty, becauſe he enjoys the ſame himſelf.</p>
+            <p>The Happineſs of theſe Province<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in this Reſpect, I have ſeen <hi>Elegantly</hi> Expreſs'd, by an Eminent Stateſman of yours, formerly Ambaſſadour here. —<hi>In this Common-Wealth</hi> (ſays he) <hi>no Man ha<g ref="char:EOLhyphen"/>ving Reaſon to complain of Oppreſſion in Conſcience, nor any Hopes, by advancing his Religion to form</hi> a Party, <hi>or break into the</hi> State, The Differences in <hi>Opinions,</hi> make none in <hi>Affections,</hi> and little in <hi>Converſation,</hi> where it ſerves but for Entertainment and Variety: They argue, without <hi>Intereſt</hi> or <hi>Anger;</hi> They differ, without <hi>Enmity</hi> or <hi>Scorn;</hi> and they a<g ref="char:EOLhyphen"/>gree without Confederacy: Men live together like Citizens of the World, aſſociated by the common Tyes of Humanity, and Bonds of Peace, under the Impartial Protection of indifferent Laws; with equal Encouragement of all Art and Enduſtry, and equal Freedom of Speculation and Inquiry: The <hi>Power</hi> of Religion, where it is, lies in every Man's Heart; and where there is only the <hi>Appearance,</hi> it has not however ſo much of the <hi>Hypocrite,</hi> and nothing at all of that <hi>Fierceneſs,</hi> as elſewhere. But rather, is like a piece of Humanity, by which every one falls moſt into the Company, or Converſation of thoſe, whoſe Cuſtoms and Humours, whoſe Talk and Diſ<g ref="char:EOLhyphen"/>poſition they like beſt. And as in other places, 'tis in every man's choice, with whom he will Eat or Lodge, with whom to go to <hi>Market,</hi> or to <hi>Court;</hi> ſo 'tis here, with whom he will Pray, or go to <hi>Church,</hi> or Aſſociate in the Service and Worſhip of God; nor is any more Notice taken, or more <hi>Cenſure</hi> paſt, of what every one chuſes in theſe Caſes, than in the other.</p>
+            <p>I know not how reliſhing this Deſcription may be to your coy <hi>Engliſh Pallates;</hi> but as I can aſſure you, 'tis perfectly true; ſo to me it ſeems very <hi>inviting,</hi> much accommodate to the Civil, Quiet, and Proſpe<g ref="char:EOLhyphen"/>rity of any Nation; and (if I miſtake not) is one of the greateſt <hi>Charms,</hi> as well as chiefeſt <hi>Supports,</hi> of this Flouriſhing Republick.</p>
+            <p>Now, (to turn the Tables) if the free Exerciſe of Religion, have been able to yield ſuch excellent Ef<g ref="char:EOLhyphen"/>fects in <hi>Theſe</hi> Provinces; who ſees not that the ſame firmly Eſtabliſh'd in <hi>England,</hi> muſt needs there pro<g ref="char:EOLhyphen"/>duce far <hi>Greater</hi> Advantages?</p>
+            <p>For not to urge, that this Liberty is advanc'd a<g ref="char:EOLhyphen"/>mongſt you, from a Nobler and more Chriſtian <hi>Prin<g ref="char:EOLhyphen"/>ciple,</hi>
+               <pb n="4" facs="tcp:101708:3"/>and ſo may hope for a greater ſhare of the Di<g ref="char:EOLhyphen"/>vine <hi>Bleſſing:</hi> Ours owning its Birth, only to little Accidents and great Neceſſity, and continued for Poncy and <hi>Reaſons of State:</hi> Whereas, yours is the <hi>Child of Election,</hi> I mean, the choice of a well-in<g ref="char:EOLhyphen"/>formed National Judgment; drawn <hi>Ex puris Na<g ref="char:EOLhyphen"/>turalibus,</hi> from the Limpid Streams of Primitive <hi>Chriſtianity,</hi> Natural <hi>Equity,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ndiſturbed Rea<g ref="char:EOLhyphen"/>ſon;</hi> Granted, not as a <hi>Conveniency,</hi> or an <hi>Alms,</hi> but a <hi>Right;</hi> not only, becauſe fit in <hi>Prudence,</hi> but becauſe requiſite in <hi>Piety;</hi> nor ſo much for its <hi>Ad<g ref="char:EOLhyphen"/>vantages,</hi> as its <hi>Juſtice:</hi> The contrary Practiſe be<g ref="char:EOLhyphen"/>ing declared an Invaſion on the Almighty's <hi>Prero<g ref="char:EOLhyphen"/>gative,</hi> as well as a Tyranny over the Souls of Men. Omitting, I ſay, this more refined Conſideration, I ſhall only offer, That you muſt needs, in meer Civil Advantages, weigh down the Ballance.</p>
+            <p>Becauſe <hi>England</hi> is more aptly <hi>Scituate,</hi> and Ac<g ref="char:EOLhyphen"/>commodated for the ſame. For (if I may pour a <hi>bold Truth</hi> into the Boſom of a Friend) your happy <hi>Brittain,</hi> as ſhe is the <hi>Queen of Iſles,</hi> ſo ſeems de<g ref="char:EOLhyphen"/>ſigned by Nature, to be the <hi>Sovereign of the Seas,</hi> Miſtreſs of Trade, the Grand Magazine of Com<g ref="char:EOLhyphen"/>merce, and chief Empory of the World, as Enjoy<g ref="char:EOLhyphen"/>ing,</p>
+            <p n="1">1. <hi>A most Excellent Temperate Air, with its Sweet<g ref="char:EOLhyphen"/>neſs and Salubrity, inviting Strangers to a Climate, where they ſhall never need</hi> Stoves <hi>in the Winter, nor</hi> Grotta's <hi>in the Summer.</hi>
+            </p>
+            <p n="2">2. <hi>A large and</hi> Plentiful Soil, (England <hi>alone be<g ref="char:EOLhyphen"/>ing Ten times as big as our</hi> United Netherlands) <hi>affording all things neceſſary, or commodious, for the</hi> Life <hi>or</hi> Delight <hi>of Man, and able to ſuſtain many Hundred Thouſands more of Inhabitants, than ſhe has.</hi>
+            </p>
+            <p n="3">3. <hi>Furniſh'd with divers Gallant</hi> Navigable <hi>Ri<g ref="char:EOLhyphen"/>vers abundance of ſafe Commodious</hi> Harbors, <hi>and</hi> bold ſtrong Ports, <hi>(therein exceeding all her Neighbours, if not all the Countries in the World.)</hi>
+            </p>
+            <p n="4">4. <hi>Stock'd with more plenty of</hi> Native Commo<g ref="char:EOLhyphen"/>dities, <hi>and fit to be improved, into <g ref="char:V">Ʋ</g>ſeful and Ven<g ref="char:EOLhyphen"/>dible Manufactures; ſo that none need want</hi> Imploy<g ref="char:EOLhyphen"/>ment, <hi>if they do not want</hi> Induſtry.</p>
+            <p n="5">5. <hi>Extraordinary Plenty of</hi> Proviſions, <hi>and thoſe of the</hi> Beſt, <hi>and</hi> Heartieſt, <hi>and moſt Subſtantial of your own Product: For I find it aſſerted, in</hi> Notitia An<g ref="char:EOLhyphen"/>glica, <hi>That there is yearly, as much Fleſh and Beer conſumed in</hi> England, <hi>by over-plentiful Tables, as would ſerve Three-times the Number of People. Whereas, by Computation, theſe Provinces are not able of themſelves, to yeild Suſtenance for above one</hi> Eight part <hi>of our Multitudes; which, together with the</hi> Heavy Impoſitions <hi>to the State, renders all Ne<g ref="char:EOLhyphen"/>ceſſaries dear, and living here, very uneaſy and charg<g ref="char:EOLhyphen"/>able; your meanest</hi> Boors <hi>and</hi> Porters, <hi>Eating and Drinking better than our</hi> Burghers.</p>
+            <p>From theſe, and many other Advantages that might be Enumerated; 'tis eaſy to foreſee, That if <hi>Liberty of Conſcience</hi> ſhould be once firmly ſetled in <hi>England,</hi> it cannot fail to Attract a wonderful Con<g ref="char:EOLhyphen"/>courſe of Strangers, thereby greatly advancing the <hi>Rents</hi> of Lands and Houſes, and the Prices of all ſorts of <hi>Proviſions,</hi> and conſequently, a mighty In<g ref="char:EOLhyphen"/>creaſe of <hi>Manufactures, Trade</hi> and <hi>Riches.</hi>
+            </p>
+            <p>After I have ſaid thus much, I need not add <hi>who,</hi> or <hi>What</hi> People in the World, would find themſelves loſers on the Foot of the Account. It being mo<g ref="char:EOLhyphen"/>rally certain, That <hi>Liberty of Conſcience</hi> Eſtabliſh'd by Law in <hi>England,</hi> (adding thereto an Act for <hi>Na<g ref="char:EOLhyphen"/>turalization of Strangers,</hi> and a <hi>Regiſtry</hi> for ſecu<g ref="char:EOLhyphen"/>ring the Titles of Purchaſes, one of the greateſt <hi>De<g ref="char:EOLhyphen"/>fects</hi> in your Nation) would more mortifie them in ſeven years time, than <hi>a War</hi> ſo long managed againſt them, with Succeſs. And if you are pleaſed to be<g ref="char:EOLhyphen"/>lieve, that they have ſo much <hi>Wit,</hi> as to underſtand their own <hi>Intereſt,</hi> it will appear no wonder, if they make uſe of all the Arts they can, to prevent ſuch Conſequences.</p>
+            <p>Which, without the help of an <hi>Oedipus,</hi> may bid fair for the Salving the Riddle of your <hi>firſt Enquiry:</hi> But having wearied you with a <hi>Tedious Letter,</hi> 'tis time I beg your Pardon, and intreat you to take the <hi>Liberty I</hi> have uſed herein, as a <hi>further Argument,</hi> that I am <hi>altogether</hi>
+            </p>
+            <closer>
+               <dateline>Amſterdam, <date>April 27. <hi>S. N.</hi> 1688.</date>
+               </dateline>
+               <signed>Your most Humble, and Affectionate Servant, <hi>C. D. W.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed with Allowance, <hi>for <hi>E. R.</hi> 1688.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
